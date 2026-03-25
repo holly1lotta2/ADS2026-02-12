@@ -1,4 +1,4 @@
-package by.it.group510901.lesson02;
+package by.it.group510901.parkhomenko.lesson01.lesson02;
 
 import java.util.ArrayList;
 import java.util.Arrays;
